@@ -43,7 +43,7 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/smadev/include/general.php');
 
       <div class="container-fluid">
 
-        © 2019 Copyright: <a href="<?php echo $HTTP_HOST; ?>/education/bootstrap/" target="_blank"> MDBootstrap.com </a>
+        © 2019 Copyright: <a href="<?php echo $HTTP_HOST; ?>/education/bootstrap/" target="_blank"> Smadev.com </a>
 
       </div>
 
