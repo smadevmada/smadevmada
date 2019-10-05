@@ -10,7 +10,7 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/smadev/include/general.php');
 
         <!-- Secion heading -->
         <h2 class="blue-text text-center text-uppercase font-weight-bold my-5 pb-3 pt-4 wow fadeIn"
-          data-wow-delay="0.2s">Quels sont nos offres et services ? <i class="fas fa-briefcase"></i></h2>
+          data-wow-delay="0.2s">NOS SERVICES </h2>
 
         <!-- First row -->
         <div class="row text-center wow fadeIn" data-wow-delay="0.4s">
@@ -23,9 +23,9 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/smadev/include/general.php');
 
               <i class="fas fa-laptop fa-3x mb-4 grey-text" aria-hidden="true"></i>
 
-              <h5 class="feature-title mb-4">Web design</h5>
+              <h5 class="feature-title mb-4">Gestion de projets web</h5>
 
-              <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p class="grey-text">Site vitrine, corporate, évènementiel, e-commerce, intranet, application mobile.</p>
 
             </div>
 
@@ -40,9 +40,9 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/smadev/include/general.php');
 
               <i class="far fa-newspaper grey-text fa-3x mb-4" aria-hidden="true"></i>
 
-              <h5 class="feature-title mb-4">Marketing</h5>
+              <h5 class="feature-title mb-4">Intégration Web</h5>
 
-              <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p class="grey-text">Des intégrations (X)HTML / CSS respectueuses des standards du Web.</p>
 
             </div>
 
@@ -58,9 +58,9 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/smadev/include/general.php');
 
               <i class="fas fa-pencil-alt grey-text fa-3x mb-4" aria-hidden="true"></i>
 
-              <h5 class="feature-title mb-4">Branding</h5>
+              <h5 class="feature-title mb-4">Développements spécifiques</h5>
 
-              <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p class="grey-text">Des outils adaptés à votre coeur de métier.</p>
 
             </div>
             <!-- Panel -->
@@ -74,11 +74,11 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/smadev/include/general.php');
             <!-- Panel -->
             <div class="card card-body hoverable">
 
-              <i class="fas fa-camera-retro grey-text fa-3x mb-4" aria-hidden="true"></i>
+              <i class="fas fa-cog grey-text fa-3x mb-4" aria-hidden="true"></i>
 
-              <h5 class="feature-title mb-4">Photography</h5>
+              <h5 class="feature-title mb-4">Interface d'administration</h5>
 
-              <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+              <p class="grey-text">Outils spécifiques au bon fonctionnement de votre entreprise.</p>
 
             </div>
             <!-- Panel -->

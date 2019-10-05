@@ -96,6 +96,8 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/smadev/include/general.php');
 	<!-- MDB core JavaScript -->
 	<script type="text/javascript " src="<?php echo $HTTP_HOST; ?>/js/mdb.min.js "></script>
 
+	<script type="text/javascript " src="<?php echo $HTTP_HOST; ?>/js/contact.js "></script>
+
 	<script>
 	    // initialize scrollspy
 	    $('body').scrollspy({
