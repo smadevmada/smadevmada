@@ -32,7 +32,7 @@ class MailContact
 
 	public function envoie()
 	{
-		$template = '
+		$corps = '
 			<div style="padding: 2% 1% 2% 1%; margin: auto; background-color: #f4f4f4">
 			<div class="body" style="font-size:16px; font-family: Arial, Helvetica, \'sans-serif\' !important";>
 			    <style type="text/css">
@@ -138,18 +138,13 @@ class MailContact
 			</div>
 			<div>
 		';
-		echo $template;
+		
 		$headers = 	"MIME-Version: 1.0"."\n"
 					."Content-type: text/html; charset=UTF-8"."\n"
 					."Content-Transfer-Encoding: 8bit"."\n"
 					."From: no-reply@smadev.com"."\n"
 					."Reply-To: no-reply@smadev.com"."\n";
-		// mail($this->destinataire, $this->objet, $this->message, $headers);
+		// mail($this->destinataire, $this->objet, $corps, $headers);
 	}
-	
-	/*
-	function __construct(argument)
-	{
-	}*/
 }
 ?>
